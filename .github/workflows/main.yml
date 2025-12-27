@@ -1,4 +1,4 @@
-name: deploy JangSangSuk
+name: deploy JangNara
 
 on:
   push:
